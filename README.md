@@ -16,3 +16,4 @@ conteúdo	Faça um texto para ebook , com foco em food miles e sustentabilidade 
 Midjourney：
 
 Conteúdo e imagem gerado via ChatGPT
+Leia o ebbok : https://github.com/RianyDias/Projeto-Ebook-gerado-por-IAs/blob/c765f6464d0e609d8a6d73faad1fbc4df09c4097/Ebook_FoodMiles.pdf
